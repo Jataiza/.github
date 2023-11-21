@@ -1,6 +1,6 @@
 <img align="right" width="150px" style="margin-top:-20px" src="https://avatars.githubusercontent.com/u/147016090?s=200&v=4">
 
-# Favela Ware <img width="30px" src="https://em-content.zobj.net/source/microsoft-teams/363/man-student_1f468-200d-1f393.png">
+# Favela Ware - 2ª edição <img width="30px" src="https://em-content.zobj.net/source/microsoft-teams/363/man-student_1f468-200d-1f393.png">
 
 <p> O <span style="color:#ee30d8">FavelaWare</span> é uma iniciativa voltada para a <span style="color:#91d329">formação de jovens programadores</span>, de 15 a 24 anos, vindos dos aglomerados Barragem Santa Lúcia, Morro do Papagaio, Vila São José, Conjunto Santa Maria, Vila Leonina, Vila Estrela,  Morro das Pedras e região, em Belo Horizonte/MG. </p>
 
